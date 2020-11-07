@@ -17,9 +17,9 @@ def leastFactorial(n):
 
 # Uncomment to print test cases
 '''
-leastFactorial(17)
-leastFactorial(5)
-leastFactorial(106)
-leastFactorial(500)
-leastFactorial(-10)
+print(leastFactorial(17))
+print(leastFactorial(5))
+print(leastFactorial(106))
+print(leastFactorial(500))
+print(leastFactorial(-10))
 '''

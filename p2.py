@@ -20,11 +20,11 @@ def getTotalNumberOfLipsticks(numberOfLipsticks, numberOfLeftoversNeeded):
 
 # Uncomment to print test cases
 '''
-getTotalNumberOfLipsticks(5, 2)
-getTotalNumberOfLipsticks(15, 5)
-getTotalNumberOfLipsticks(2, 3)
-getTotalNumberOfLipsticks(15, 4)
-getTotalNumberOfLipsticks(20, 20)
-getTotalNumberOfLipsticks(0, 0)
-getTotalNumberOfLipsticks(-100, -300)
+print(getTotalNumberOfLipsticks(5, 2))
+print(getTotalNumberOfLipsticks(15, 5))
+print(getTotalNumberOfLipsticks(2, 3))
+print(getTotalNumberOfLipsticks(15, 4))
+print(getTotalNumberOfLipsticks(20, 20))
+print(getTotalNumberOfLipsticks(0, 0))
+print(getTotalNumberOfLipsticks(-100, -300))
 '''
