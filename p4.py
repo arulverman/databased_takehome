@@ -45,4 +45,5 @@ def peopleWatch(heightOfPeople):
 print(peopleWatch([5.5, 4.5, 4, 6, 3.3]))
 print(peopleWatch([6, 4.5, 5.5, 4, 6, 3.3]))
 print(peopleWatch([2, 1, 4, 4, 5, 9]))
+print(peopleWatch([12, 2, 1, 4, 9, 10, 2]))
 '''
